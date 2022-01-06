@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+Attiré depuis toujours par l’informatique et les nouvelles technologies, j’ai décidé de poursuivre une nouvelle voie professionnelle en m’orientant vers le développement Web.
 <!--
 **Pal-14/Pal-14** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
