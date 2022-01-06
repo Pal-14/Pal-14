@@ -16,8 +16,7 @@ Travail à distance en Remote.
 Autodidacte toujours prêt à apprendre et à relever de nouveaux défis 
 et toujours prêt à résoudre les problèmes de codes etc....
 
-!--
-**Pal-14/Pal-14** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 
 Here are some ideas to get you started:
 
