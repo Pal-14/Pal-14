@@ -1,6 +1,22 @@
 ### Hi there 👋
-Attiré depuis toujours par l’informatique et les nouvelles technologies, j’ai décidé de poursuivre une nouvelle voie professionnelle en m’orientant vers le développement Web.
-<!--
+
+2021
+Formation de 
+Developpeur Web JavaScript 
+
+Compétences:
+Html /Css / Javascript / React /Node JS / Express JS / React Native / MongoDB 
+
+Git / GitLab / Postman / Trello / Pivotal Tracker / 
+
+Méthode Agil Scrum
+
+Travail à distance en Remote.
+
+Autodidacte toujours prêt à apprendre et à relever de nouveaux défis 
+et toujours prêt à résoudre les problèmes de codes etc....
+
+!--
 **Pal-14/Pal-14** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
