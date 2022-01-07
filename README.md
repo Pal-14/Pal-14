@@ -34,8 +34,4 @@ Si vous allez sur mes projets vous pourrez voir dans le read-me les photos de ce
 
 - 📫 Contactez-moi: <a href="mailto:p.laignelvergain@gmail.com">>>>>>Mon mail ici<<<<<<</a>
 
-
-
-
-
 -->
