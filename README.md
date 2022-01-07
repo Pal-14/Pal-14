@@ -6,11 +6,7 @@
 <div>
 	<p>En 2021 j'ai fait une Formation de Developpeur Web JavaScript en full remote</p> 
 	<h2>Compétences:</h2>
-<div>
-	</br>
-<div>
 	<h3>Html /Css / Javascript / React /Node JS / Express JS / React Native / MongoDB </h3>
-	<br>
 	<h3>Git / GitLab / Postman / Trello / Pivotal Tracker / </h3>
 	<h3>
 	Méthode Agil Scrum
@@ -21,10 +17,9 @@
 	<h3>
 	Autodidacte toujours prêt à apprendre et à relever de nouveaux défis 
 	</h3>
-	</br>
-	<p>
+	<h4>
 	Si vous allez sur mes projets vous pourrez voir dans le read-me les photos de ceux-ci.</div>
-	</p>
+	</h4>
 
 
 - 📫 Contactez-moi: <a href="mailto:p.laignelvergain@gmail.com">>>>>>Mon mail ici<<<<<<</a>
