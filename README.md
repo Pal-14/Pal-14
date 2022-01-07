@@ -1,7 +1,7 @@
-### Bonjour tout le monde 👋
+<h1>### Bonjour tout le monde 👋</h1>
 
 
-Je me présente Pierre-alain développeur Web Full Stack Javascript
+<h3>Je me présente Pierre-alain développeur Web Full Stack Javascript
 
 En 2021 j'ai fait une Formation de Developpeur Web JavaScript en full remote 
 
@@ -17,12 +17,12 @@ Travail à distance en Remote.
 Autodidacte toujours prêt à apprendre et à relever de nouveaux défis 
 
 
-Si vous allez sur mes projets vous pourrez voir dans le read-me les photos de ceux-ci.
+Si vous allez sur mes projets vous pourrez voir dans le read-me les photos de ceux-ci.</h3>
 
 
-Here are some ideas to get you started:
 
-- 📫 Contactez-moi: p.laignelvergain@gmail.com
+
+- 📫 Contactez-moi: <a href="mailto:p.laignelvergain@gmail.com">>>>>>Mon mail ici<<<<<<</a>
 
 
 
