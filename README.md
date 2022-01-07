@@ -1,8 +1,9 @@
-### Hi there 👋
+### Bonjour tout le monde 👋
 
-2021
-Formation de 
-Developpeur Web JavaScript 
+
+Je me présente Pierre-alain développeur Web Full Stack Javascript
+
+En 2021 j'ai fait une Formation de Developpeur Web JavaScript en full remote 
 
 Compétences:
 Html /Css / Javascript / React /Node JS / Express JS / React Native / MongoDB 
@@ -14,14 +15,17 @@ Méthode Agil Scrum
 Travail à distance en Remote.
 
 Autodidacte toujours prêt à apprendre et à relever de nouveaux défis 
-et toujours prêt à résoudre les problèmes de codes etc....
 
+
+Si vous allez sur mes projets vous pourrez voir dans le read-me les photos de ceux-ci.
 
 
 Here are some ideas to get you started:
 
-- 🌱 I’m currently learning nextJS, vueJS, et bien d'autres encores
-- 👯 I’m looking to collaborate on front-end / back-end
-- 📫 How to reach me: p.laignelvergain@gmail.com
+- 📫 Contactez-moi: p.laignelvergain@gmail.com
+
+
+
+
 
 -->
