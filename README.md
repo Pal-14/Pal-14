@@ -1,7 +1,7 @@
 
 <h1>### Bonjour tout le monde 👋</h1>
 
-<h3>Je me présente Pierre-alain développeur Web Full Stack Javascript</h3>
+<h3>Je m'appelle Pierre-alain, je suis développeur Web Full Stack Javascript</h3>
 
 <div>
 	<h3>En 2021 j'ai fait une Formation de Developpeur Web JavaScript en full remote</h3> 
