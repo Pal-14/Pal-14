@@ -15,7 +15,7 @@
 	Travail à distance en Remote.
 	</h3>
 	<h3>
-	Autodidacte toujours prêt à apprendre et à relever de nouveaux défis 
+	Toujours prêt à apprendre et à relever de nouveaux défis 
 	</h3>
 	<h3>J'apprend aussi en ce moment Vue.Js / Next.Js / Typescript / Svelte / Materialize css / Tailwind / Greensock... ...</h3>
 	<h3>
@@ -26,3 +26,4 @@
 - 📫 <h3>Contactez-moi: <a href="mailto:p.laignelvergain@gmail.com">>>>>>Mon mail ici<<<<<<</a></h3>
 
 -->
+
