@@ -26,4 +26,6 @@
 - 📫 <h3>Contactez-moi: <a href="mailto:p.laignelvergain@gmail.com">>>>>>Mon mail ici<<<<<<</a></h3>
 
 -->
+<img src="https://user-images.githubusercontent.com/90357014/149663075-5c232160-b80f-459f-ab55-5d6595c6a6c3.png" width="100" height="100"/>
+
 
