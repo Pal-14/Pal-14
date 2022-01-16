@@ -26,7 +26,7 @@
 </div>
 
 <h3>Outils</h3>
-<p>GitHub / GitLab / Postman / Trello / Pivotal Tracker / Visual Studio Code</p>
+<p/>Postman / GitHub / Visual Studio Code / Pivotal Tracker / Trello </p>
 <div "display-flex=row" >
 <img src="https://user-images.githubusercontent.com/90357014/149663496-c3945e35-a93e-406b-913b-a20f435cf44a.png" width="100" height="100"/>
 <img src="https://user-images.githubusercontent.com/90357014/149663501-6c483ec9-960f-4432-a7f5-bf1ad5c58e5c.png" width="100" height="100"/>
