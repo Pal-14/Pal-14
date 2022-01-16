@@ -56,9 +56,8 @@ Outils
 <img src="https://user-images.githubusercontent.com/90357014/149664052-b265ca46-4d85-4380-90f2-217d3296e5f1.png" width="100" height="100"/>
 <img src="https://user-images.githubusercontent.com/90357014/149663501-6c483ec9-960f-4432-a7f5-bf1ad5c58e5c.png" width="100" height="100"/>
 <img src="https://user-images.githubusercontent.com/90357014/149664204-2f008f2f-e859-408e-a8f9-0535ae58078a.png" width="100" height="100"/>
-<img src="https://user-images.githubusercontent.com/90357014/149664253-552d844d-5b6c-4b1b-96b5-2c59be56f338.png" width="100" height="100"/>
+<img src="https://user-images.githubusercontent.com/90357014/149664291-e7d505e4-99aa-4caf-9d7c-d8a144a273a0.png" width="100" height="100"/>
 </div>
-
 
 
 
