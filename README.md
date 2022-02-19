@@ -7,7 +7,7 @@
 	<h3>En 2021 j'ai fait une Formation de Developpeur Web JavaScript en full remote</h3> 
 	<h2>Compétences:</h2>
 	<h3>Front-End</h3> 
-	<p>Html /Css / Sass / Javascript / React / React Native  </p>
+	<p>Html / Css / Sass / Javascript / React / React Native  </p>
 	
 
 <div "display-flex=row" >
