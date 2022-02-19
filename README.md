@@ -7,7 +7,7 @@
 	<h3>En 2021 j'ai fait une Formation de Developpeur Web JavaScript en full remote</h3> 
 	<h2>Compétences:</h2>
 	<h3>Front-End</h3> 
-	<p>Html /Css / Javascript / React / React Native  </p>
+	<p>Html /Css / Sass / Javascript / React / React Native  </p>
 	
 
 <div "display-flex=row" >
@@ -16,6 +16,7 @@
 <img src="https://user-images.githubusercontent.com/90357014/149663420-27c78bfe-06ae-4b86-aa8b-10751c58e431.png" width="100" height="100"/>
 <img src="https://user-images.githubusercontent.com/90357014/149663421-425fb3e7-1f3c-48a6-9b86-05217403ba29.png" width="100" height="100"/>
 <img src="https://user-images.githubusercontent.com/90357014/149663423-cead7324-c214-463e-ba3a-f10529babb18.png" width="100" height="100"/>
+<img src="https://user-images.githubusercontent.com/90357014/154811259-f9c64690-9f68-4f04-b313-4c6415026b7e.png" width="100" height="100"/>
 </div>
 </br>
 <h3>Back-End</h3>
@@ -24,6 +25,7 @@
 <img src="https://user-images.githubusercontent.com/90357014/149663443-92ad19be-c638-4321-9700-6b1bd67ad4a5.png" width="100" height="100"/>
 <img src="https://user-images.githubusercontent.com/90357014/149663452-c2589102-1f01-4785-959f-5d7f5050d216.png" width="100" height="100"/>
 </div>
+![sass](https://user-images.githubusercontent.com/90357014/154811166-a36bee97-d86d-4ff1-ae95-2c4d99c722e8.jpeg)
 
 <h3>Outils</h3>
 <p/>Postman / GitHub / Visual Studio Code / Pivotal Tracker / Trello </p>
