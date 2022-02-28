@@ -7,13 +7,14 @@
 	<h3>En 2021 j'ai fait une Formation de Developpeur Web JavaScript en full remote</h3> 
 	<h2>Compétences:</h2>
 	<h3>Front-End</h3> 
-	<p>Html / Css / Sass / Javascript / React / React Native  </p>
+	<p>Html / Css / Sass / Javascript / TypeScript / React / React Native  </p>
 	
 
 <div "display-flex=row" >
 <img src="https://user-images.githubusercontent.com/90357014/149663075-5c232160-b80f-459f-ab55-5d6595c6a6c3.png" width="100" height="100"/>
 <img src="https://user-images.githubusercontent.com/90357014/149663323-91b2ccc0-a78f-4f73-b70f-5367d3d3563e.png" width="100" height="100"/>
 <img src="https://user-images.githubusercontent.com/90357014/149663420-27c78bfe-06ae-4b86-aa8b-10751c58e431.png" width="100" height="100"/>
+<img src="https://user-images.githubusercontent.com/90357014/155972313-0ce11d12-634e-4a71-86bc-f35d11aceef3.svg" width="100" height="100"/>
 <img src="https://user-images.githubusercontent.com/90357014/149663421-425fb3e7-1f3c-48a6-9b86-05217403ba29.png" width="100" height="100"/>
 <img src="https://user-images.githubusercontent.com/90357014/149663423-cead7324-c214-463e-ba3a-f10529babb18.png" width="100" height="100"/>
 <img src="https://user-images.githubusercontent.com/90357014/154811259-f9c64690-9f68-4f04-b313-4c6415026b7e.png" width="100" height="100"/>
